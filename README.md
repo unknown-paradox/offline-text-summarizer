@@ -48,9 +48,3 @@ Since this `.app` file is **not signed** with an official Apple developer certif
 This project is licensed under the **CC0 1.0 Universal (CC0 1.0) Public Domain Dedication**. You can use, modify, and distribute the project without any restrictions.
 
 See the [LICENSE](LICENSE) file for more details.
-
-## Author Information
-
-Created by: **Liuxuan Jiao**  
-University of Cambridge  
-Email: lj393@cam.ac.uk
